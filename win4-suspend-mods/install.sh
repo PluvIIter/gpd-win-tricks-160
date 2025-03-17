@@ -27,7 +27,7 @@ cd /tmp
 
 git clone https://github.com/PluvIIter/gpd-win-tricks-160.git
 
-cd gpd-win-tricks/win4-suspend-mods
+cd gpd-win-tricks-160/win4-suspend-mods
 
 sudo cp ./suspend-mods.sh /usr/local/bin/suspend-mods
 sudo cp ./resume-mods.sh /usr/local/bin/resume-mods
