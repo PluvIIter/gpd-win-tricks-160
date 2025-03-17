@@ -3,7 +3,7 @@
 # Originally created by ChimeraOS
 
 
-modprobe bmi260_i2c
-modprobe bmi260_core
+modprobe bmi160_i2c
+modprobe bmi160_core
 
 
