@@ -25,7 +25,7 @@ sudo rm -rf /tmp/gpd-win-tricks
 
 cd /tmp
 
-git clone https://github.com/aarron-lee/gpd-win-tricks.git
+git clone https://github.com/PluvIIter/gpd-win-tricks-160.git
 
 cd gpd-win-tricks/win4-suspend-mods
 
